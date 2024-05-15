@@ -1,0 +1,55 @@
+{
+    "books": [
+      {
+        "isbn": "1",
+        "title": "The Great Gatsby",
+        "year": 1925,
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "isbn": "2",
+        "title": "The Great Gatsby",
+        "year": 1925,
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "isbn": "3",
+        "title": "The Great Gatsby",
+        "year": 1925,
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "isbn": "4",
+        "title": "The Great Gatsby",
+        "year": 1925,
+        "author": "F. Scott Fitzgerald"
+      }
+    ],
+    "lends": [
+      {
+        "id": 1,
+        "customer_id": "1234567890",
+        "isbn": "1",
+        "borrowed_at": "2024-05-14T09:06:05.439Z"
+      },
+      {
+        "id": 2,
+        "customer_id": "1234567890",
+        "isbn": "2",
+        "borrowed_at": "2024-05-14T09:06:32.555Z",
+        "returned_at": "2024-05-14T09:21:08.873Z"
+      },
+      {
+        "id": 3,
+        "customer_id": "1234567890",
+        "isbn": "3",
+        "borrowed_at": "2024-05-14T09:06:35.128Z"
+      },
+      {
+        "id": 4,
+        "customer_id": "1234567890",
+        "isbn": "4",
+        "borrowed_at": "2024-05-14T09:26:11.877Z"
+      }
+    ]
+  }
